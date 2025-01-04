@@ -36,7 +36,12 @@ Welcome to the **Cookies Website** project! This website is designed to showcase
    Home page::
   ![alt text](https://github.com/RabiyaMkhan/website_Project/blob/main/homepage.png.jpg?raw=true)
   ![Screenshot of the Homepage](https://github.com/yourusername/PROJECTAICT/blob/main/homepage.png)
-  
+ About_Page_screenshot.
+ ![alt text](https://github.com/RabiyaMkhan/website_Project/blob/main/aboutpage.png.jpg?raw=true)
+ ![Screenshot of Homepage](https://github.com/yourusername/PROJECTAICT/blob/main/aboutpage.png.jpg)
+ 
+
+
 
 
    
