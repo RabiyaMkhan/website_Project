@@ -60,6 +60,7 @@ Welcome to the **Cookies Website** project! This website is designed to showcase
  ![Screenshot of Homepage](https://github.com/yourusername/PROJECTAICT/blob/main/Placeorderpage.png.jpg)\
  <br>
  <br>
+ Product1_page_screenshot
  ![alt text](https://github.com/RabiyaMkhan/website_Project/blob/main/productpage.png.jpg?raw=true)
  ![Screenshot of Homepage](https://github.com/yourusername/PROJECTAICT/blob/main/productpage.png.jpg)
  Further 5 pages are same as the page above.. 
