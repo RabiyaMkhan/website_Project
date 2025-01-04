@@ -53,6 +53,21 @@ Welcome to the **Cookies Website** project! This website is designed to showcase
  recipes_page_screenshot.
  ![alt text](https://github.com/RabiyaMkhan/website_Project/blob/main/recipes.png.jpg?raw=true)
  ![Screenshot of Homepage](https://github.com/yourusername/PROJECTAICT/blob/main/recipes.png.jpg)
+ <br>
+ <br>
+ placehoder_page_screenshot
+ ![alt text](https://github.com/RabiyaMkhan/website_Project/blob/main/Placeorderpage.png.jpg?raw=true)
+ ![Screenshot of Homepage](https://github.com/yourusername/PROJECTAICT/blob/main/Placeorderpage.png.jpg)\
+ <br>
+ <br>
+ ![alt text](https://github.com/RabiyaMkhan/website_Project/blob/main/productpage.png.jpg?raw=true)
+ ![Screenshot of Homepage](https://github.com/yourusername/PROJECTAICT/blob/main/productpage.png.jpg)
+ Further 5 pages are same as the page above.. 
+
+
+ 
+
+
  
 
 
